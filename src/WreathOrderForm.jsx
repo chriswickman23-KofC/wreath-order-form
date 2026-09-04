@@ -19,7 +19,7 @@ const PICKUP_DATES = [
 const PAYMENT_METHODS = ["Cash", "Check", "Venmo", "Other"];
 // Paste your Google Apps Script web app URL here once deployed (see setup instructions).
 // Leave blank to skip the Sheet and only save orders to local storage.
-const SHEET_WEB_APP_URL = "";
+const SHEET_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzqvlECjls37tOEG-HW-oA54DmI7YI4GJE_7x3zmIecEcACqk41KrQ2F8P5CbMGE2HPgQ/exec";
 // -----------------------------------------------------------------------
 
 function Stepper({ label, sublabel, price, qty, onChange }) {
