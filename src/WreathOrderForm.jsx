@@ -10,12 +10,7 @@ const PRICES = {
   plain: 45,
   decorated: 65,
 };
-const PICKUP_DATES = [
-  "Sat, Dec 6",
-  "Sat, Dec 13",
-  "Sat, Dec 20",
-  "Mon, Dec 22",
-];
+const PICKUP_DATES = ["Sun, Dec 6, 2026"];
 const PAYMENT_METHODS = ["Cash", "Check", "Venmo", "Other"];
 // Paste your Google Apps Script web app URL here once deployed (see setup instructions).
 // Leave blank to skip the Sheet and only save orders to local storage.
