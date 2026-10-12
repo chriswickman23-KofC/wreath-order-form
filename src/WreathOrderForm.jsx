@@ -11,7 +11,7 @@ const PRICES = {
   decorated: 65,
 };
 const PICKUP_DATES = ["Sun, Dec 6, 2026"];
-const PAYMENT_METHODS = ["Cash", "Check", "Venmo", "Other"];
+const PAYMENT_METHODS = ["Cash", "Check", "Zeffy", "Other"];
 // Paste your Google Apps Script web app URL here once deployed (see setup instructions).
 // Leave blank to skip the Sheet and only save orders to local storage.
 const SHEET_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxbiphCQxh1M_shg6uZS7cG9msFdvoFootDw4vn_awWKDbsse_KGz-PnnX7k1Bih_Dhlw/exec";
